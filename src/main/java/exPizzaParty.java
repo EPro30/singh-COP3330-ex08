@@ -19,6 +19,6 @@ public class exPizzaParty {
 
         System.out.println(numPeople + " people with " + numPizzas + " pizzas");
         System.out.println("Each person gets " +  pizPrsn + " pieces of pizza.");
-        System.out.println("There are " +  leftover+ " leftover pieces.");
+        System.out.println("There are " +  leftover + " leftover pieces.");
     }
 }
